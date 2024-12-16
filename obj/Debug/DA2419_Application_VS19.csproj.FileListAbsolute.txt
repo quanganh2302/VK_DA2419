@@ -1,0 +1,60 @@
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.ResolveComReference.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Form1.resources
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Properties.Resources.resources
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.GenerateResource.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe.config
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.pdb
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.exe
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.pdb
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe.config
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.pdb
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Form1.resources
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Properties.Resources.resources
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.exe
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.pdb
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe.config
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.pdb
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.ResolveComReference.cache
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Form1.resources
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Properties.Resources.resources
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.GenerateResource.cache
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.CoreCompileInputs.cache
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.exe
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.pdb
+C:\Users\User\Desktop\Source\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.AssemblyReference.cache
+E:\Desktop\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.AssemblyReference.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.AssemblyReference.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe.config
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.exe
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\bin\Debug\DA2419_Application_VS19.pdb
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.AssemblyReference.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.ResolveComReference.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Form1.resources
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.Properties.Resources.resources
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.GenerateResource.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.exe
+E:\Dynamic\1. Work\1. On_Going\DA_2419\Electrical\DA2419_Application_VS19 - Vietnamese_Version\DA2419_Application_VS19\obj\Debug\DA2419_Application_VS19.pdb
